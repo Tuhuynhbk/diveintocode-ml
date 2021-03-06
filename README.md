@@ -1,2 +1,2 @@
-# diveintocode-ml
-It's for my ML course's Assignment.
+# DIVE INTO CODE Machine Learning Course
+This is a repository for managing assignments for DIVE INTO CODE Machine Learning course.
